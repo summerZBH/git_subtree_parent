@@ -1,1 +1,2 @@
 child
+add a new line
